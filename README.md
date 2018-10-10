@@ -1,7 +1,7 @@
-# Hackerrankodlari
+<h1> Hackerrankodlari </h1>
 
 Hacker rank'ten cozdugum sorularin bazilarini atiyorum.
 
-##Python icinde cozdugum algoritmalar ve pratikler bulunmaktadir.
+<h2>Python icinde cozdugum algoritmalar ve pratikler bulunmaktadir.</h2>
 
-##c++ dizininin icinde sadece pratikler bulunmaktadir.
+<h2>c++ dizininin icinde sadece pratikler bulunmaktadir.</h2>
