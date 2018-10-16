@@ -1,4 +1,4 @@
-### These codes for Hacker Rank python practice
+##### These codes for Hacker Rank python practice. Links are forwarding code directory.
 
 
 + [Basic Data Types]()
