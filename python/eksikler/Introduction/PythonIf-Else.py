@@ -1,7 +1,5 @@
 #!/bin/python3
 
-
-
 '''
 Problem linki : https://www.hackerrank.com/challenges/py-if-else/problem
 Check Tutorial tab to know how to to solve.
@@ -50,7 +48,6 @@ Explanation 1
 
 and is even, so it isn't weird. Thus, we print Not Weird.
 '''
-
 
 
 N = int(input())

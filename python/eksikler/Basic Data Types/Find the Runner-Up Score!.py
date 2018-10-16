@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 '''
+Problem link : https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/submissions/code/84647807
+
 Problem Statement
 Now, lets delve into one of the most basic data types in python, LIST. You are given 'n' numbers. Store them in a list and find the second largest number. Easy enough!
 NOTE : Don't use insertion sort
