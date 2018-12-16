@@ -76,7 +76,7 @@ def counterduplicate2(strings):
         if count == 2: return "ok"
         else: return "-1"
 
-    
+
 def estimatedvalue(strings):
     strings=strings.lower()
     if (strings.find('g') != -1 or strings.find('o') != -1 or strings.find('e') != -1 or strings.find('3') != -1  or strings.find('<>') != -1 or strings.find('[]') != -1  or strings.find('i') != -1 or strings.find('0') != -1) and (strings.find(' ') == -1) and (counterduplicate1(strings) == "ok" or counterduplicate2(strings) == "ok") and (len(strings)<=8 and len(strings) >= 6) and ( strings[-1] == '3' or strings[-1] == 'e') and (strings[-3] == 'g') and (strings[-4] == ">" or strings[-4] == ")" or strings[-4] == "]" or strings[-4] == "o" or strings[-4] == '0' ): return "True"
