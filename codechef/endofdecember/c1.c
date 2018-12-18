@@ -15,13 +15,3 @@ int main(){
     }
   }
 }
-
-
-// for(i=0;i<number1[0];i++){
-  //   if(number1[1] < number2[i]){
-    //     printf("Good boi");
-    //   }else{
-      //     printf("Bad boi");
-      //   }
-      // }
-      // printf("%d %d",number1[0],number1[1] );
