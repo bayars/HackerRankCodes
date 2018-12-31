@@ -21,21 +21,19 @@ char** split_string(char*);
 // return a;
 //
 int* quickSort(int arr_count, int* arr, int* result_count) {
-      int x = arr[*result_count];
-  int i = arr_count - 1;
-  int j,temp;
-  for(j=arr_count; j < *result_count; j++){
-    if(arr[j] <= x){
-      i = i + 1;
-      temp = arr[i];
-      arr[i] = arr[j];
-      arr[j] = temp;
+  int j,temp,i,pivot;
+  pivot = arr[0];
+  size_t n = sizeof(arr)/sizeof(arr[0]);
+  for(i=1;i<n;i++){
+    if(arr[i] < pivot){
+      for( j=i;j>0;j--){
+	       temp = arr[j];
+	       arr[j]=arr[j-1];
+	       arr[j-1]=temp;
+      }
     }
   }
-  temp = arr[i+1];
-  arr[i+1] = arr[*result_count];
-  arr[*result_count] = temp;
-  return i+1;
+  return arr;
 }
 
 int main()

@@ -8,10 +8,11 @@ int main()
     int n,t;
     
     cin>>t;
-    while(t--){
+    cout << t;
+    /*while(t--){
         cin>>n;
         cout<<n/2<<endl;
-    }
+    }*/
 
     return 0;
 }
