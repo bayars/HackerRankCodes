@@ -1,7 +1,9 @@
-<h2> Hackerrankodlari </h2>
+# Hacker Rank Problem Solves
 
-Hacker rank'ten cozdugum sorularin bazilarini atiyorum.
+I solved problem on Hacker Rank. I added my solved with problem and comments. also sometimes I register codeforces competetion where codeforces directory.   
 
-<h5>Python icinde cozdugum algoritmalar ve pratikler bulunmaktadir.</h5>
-
-<h5>c++ dizininin icinde sadece pratikler bulunmaktadir.</h5>
++ Python problem and solve code is under in Python directory.
++ C++ problem and solve code is under in C++ directory.
++ Ruby problem and solve code is under in Ruby directory. 
++ Hacker Rank, solved find google competetion code.
++ Hacker Rank, algorithm problem and solve codes in Algorithm directory.  
