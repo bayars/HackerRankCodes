@@ -7,3 +7,4 @@ I solved problem on Hacker Rank. I added my solved with problem and comments. al
 + Ruby problem and solve code is under in Ruby directory. 
 + Hacker Rank, solved find google competetion code.
 + Hacker Rank, algorithm problem and solve codes in Algorithm directory.  
++ Hacker Rank, data structure problems and solves in Data Structure directory
