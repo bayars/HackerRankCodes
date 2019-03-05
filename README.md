@@ -9,3 +9,4 @@ I have split on branchs. You might be look at other branchs for Algorithm, Ruby 
 + Ruby problem and solve code is under in Ruby directory. 
 + Hacker Rank, solved find google competetion code.
 + Hacker Rank, algorithm problem and solve codes in Algorithm directory.  
++ Hacker Rank, data structure problems and solves in Data Structure directory
