@@ -1,6 +1,6 @@
 =begin
 
-[Problem Link](https://www.hackerrank.com/challenges/ruby-strings-indexing/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)
+[Problem Link])(https://www.hackerrank.com/challenges/ruby-strings-indexing/problem)
 
 When you index a string, you extract or alter the portions. This is perhaps the most important operation you want to perform on strings. The string class provides a convenient array-like square bracket [] operator, which allows you to extract portions of the string as well as altering the content when used on the left side of an assignment.
 
