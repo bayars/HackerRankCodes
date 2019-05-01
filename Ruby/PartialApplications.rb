@@ -26,3 +26,17 @@ You are given a partially complete code. Your task is to fill in the blanks (___
 Here, combination is a variable that stores a partial application which computes combination .
 
 =end
+
+
+combination = -> (n) do
+    -> (r) do
+        (1..n).inject(1, :*) / (((1..r).inject(1, :*)) * ((1..(n-r)).inject(1, :*)))         end
+end
+#________________________________________________
+#________________________________________________
+#________________________________________________
+
+n = gets.to_i
+r = gets.to_i
+nCr = combination.(n)
+puts nCr.(r)
